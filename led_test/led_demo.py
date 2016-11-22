@@ -1,3 +1,5 @@
+#This is a test script for lighting led from raspberry pi.
+
 import RPi.GPIO as GPIO
 
 import time
